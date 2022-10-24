@@ -1,0 +1,20 @@
+{
+  "departamentos":[
+      {
+          "id": 1,
+          "nombre": "Recursos Humanos",
+          "encargado": "Angela",
+          "funcionarios": 4
+      }
+  ],
+  "activos":[
+      {
+          "id": 1,
+          "tipo_activo": "Computadora",
+          "marca": "HP Compaq",
+          "modelo": "Pavilion 360",
+          "estado": "Usado",
+          "departamento_id": 1
+      }
+  ]
+}
